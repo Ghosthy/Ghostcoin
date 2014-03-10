@@ -1,0 +1,2 @@
+debian/bin/ghostcoind usr/bin
+src/ghostcoind usr/lib/ghostcoin

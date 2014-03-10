@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GhostCoin
+Comment=GhostCoin P2P Cryptocurrency
+Comment[fr]=GhostCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=GhostCoin, eşten eşe kriptografik sanal para birimi
+Comment[es]=GhostCoin, una criptomoneda P2P
+Exec=/usr/bin/ghostcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/ghostcoin;
+Categories=Office;
