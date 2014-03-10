@@ -1,0 +1,4 @@
+Ghostcoin
+=========
+
+Ghostcoins is Launched
